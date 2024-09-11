@@ -11,7 +11,7 @@
 ### Online Mode (LoginPage, EmployeePage)
   <table>
     <tr>
-      <td><img src="Screenshots/3.png" width="300"/></td>
-      <td><img src="Screenshots/4.png" width="300"/></td>
+      <td><img src="Screenshots/3.png" width="350"/></td>
+      <td><img src="Screenshots/4.png" width="350"/></td>
     </tr>
   </table>
